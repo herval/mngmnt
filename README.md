@@ -28,3 +28,11 @@
 
 ### ❓[References](pages/references.md)
 
+
+
+## TODO
+
+- Manager's Path
+- Never Split the Difference
+- Radical Candor
+

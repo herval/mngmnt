@@ -18,6 +18,10 @@
 ![](../imgs/feedback_language.png)
 
 
+## Care personally
+
+![](../imgs/candid_feedback.png)
+
 ## Be clear and show you care
 
 Clear and specific feedback is _always_ better, even if it's bad.
