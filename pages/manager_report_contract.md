@@ -21,4 +21,4 @@
 
 ## Be present but don't micromanage
 
-![](imgs/manager_presence.png)
+![](../imgs/manager_presence.png)

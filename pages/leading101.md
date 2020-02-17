@@ -23,7 +23,7 @@
 - Find an external enemy (if you need one)
 - Focus more time on the top performers
 
-![](imgs/leadership101.png)
+![](../imgs/leadership101.png)
 
 ## References
 

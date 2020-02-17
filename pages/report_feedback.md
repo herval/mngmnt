@@ -1,6 +1,6 @@
 # Giving personal feedback
 
-![](imgs/situational_feedback.png)
+![](../imgs/situational_feedback.png)
 
 
 ## Be situational, specific and timely
@@ -15,14 +15,14 @@
 
 ## Language tips
 
-![](imgs/feedback_language.png)
+![](../imgs/feedback_language.png)
 
 
 ## Be clear and show you care
 
 Clear and specific feedback is _always_ better, even if it's bad.
 
-![](imgs/clear_feedback.png)
+![](../imgs/clear_feedback.png)
 
 
 ## References

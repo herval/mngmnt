@@ -37,11 +37,11 @@
 
 ## Great tips (source: HN)
 
-![](imgs/first_time_mng1.png)
+![](../imgs/first_time_mng1.png)
 
-![](imgs/first_time_mng2.png)
+![](../imgs/first_time_mng2.png)
 
-![](imgs/first_time_mng3.png)
+![](../imgs/first_time_mng3.png)
 
 
 ## References

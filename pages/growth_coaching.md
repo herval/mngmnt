@@ -10,12 +10,12 @@ Coaching for Growth == levelling up individuals who may not _yet_ be up-to-par. 
 - Don’t offer solutions, offer *challenges*
 - Junior devs/newcomers: ask as many clarifying questions as possible (don't know what I don't know)
 
-![](imgs/growth_trajectories.png)
+![](../imgs/growth_trajectories.png)
 
 
 ## You can't "keep only top performers" 
 
-![](imgs/no_easing.png)
+![](../imgs/no_easing.png)
 
 
 ## References

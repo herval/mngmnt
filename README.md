@@ -2,29 +2,29 @@
 
 ## A collection of resources, findings & references for becoming a better manager
 
-###👨‍💼[Role expectations](role.md)
+### 👨‍💼[Role expectations](pages/role.md)
 
-###👨‍👧‍👦[Leadership](leadership.md)
+### 👨‍👧‍👦[Leadership](pages/leadership.md)
 
-###🚪[Interviewing & hiring](interviewing.md)
+### 🚪[Interviewing & hiring](pages/interviewing.md)
 
-###👩‍🏫[Career management](career_management.md)
+### 👩‍🏫[Career management](pages/career_management.md)
 
-###👯‍♀️[Culture building](culture_building.md)
+### 👯‍♀️[Culture building](pages/culture_building.md)
 
-###🏗[Project execution](project_execution.md)
+### 🏗[Project execution](pages/project_execution.md)
 
-###🆘[Self-help](self_help.md)
+### 🆘[Self-help](pages/self_help.md)
 
-###🏢[Building organizations](building_orgs.md)
+### 🏢[Building organizations](pages/building_orgs.md)
 
-###👥[Building teams](building_teams.md)
+### 👥[Building teams](pages/building_teams.md)
 
-###🏆[Performance & results](performance.md)
+### 🏆[Performance & results](pages/performance.md)
 
-###🗒[Meetings](meetings.md)
+### 🗒[Meetings](pages/meetings.md)
 
-###🎯[Planning & alignment](planning.md)
+### 🎯[Planning & alignment](pages/planning.md)
 
-###❓[References](references.md)
+### ❓[References](pages/references.md)
 
