@@ -38,3 +38,4 @@ How? Promote design reviews, whiteboarding sessions, roundtables, etc
 ## References
 
 - [Psychological Safety: A Prerequisite For High Performing Teams](https://www.strategyzer.com/blog/psychological-safety-in-the-workplace-a-prerequisite-for-high-performing-teams)
+- [How to grow emotionally intelligent engineering teams (Danielle Leong)](https://pbell.wistia.com/medias/k8htv3947p)

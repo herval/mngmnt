@@ -1,0 +1,35 @@
+# Career Ladders
+
+
+## Published Career Ladders
+- [Artsy](https://artsy.github.io/blog/2015/04/03/artsy-engineering-compensation-framework/)
+- [Buffer](https://open.buffer.com/engineering-career-framework/)
+- [BuzzFeed (design roles)](https://medium.com/buzzfeed-design/buzzfeed-product-design-roles-2-0-6fe445078a74)
+- [Cap Gemini](https://capgemini.github.io/culture/our-grade-ladder/)
+- [CircleCI](https://circleci.com/blog/why-we-re-designed-our-engineering-career-paths-at-circleci/)
+- [Envoy](https://github.com/envoy/Engineering/blob/master/engineering_bands.md)
+- [Financial Times](https://github.com/Financial-Times/engineering-progression)
+- [Fog Creek](https://www.joelonsoftware.com/articles/ladder.html)
+- [GOV.UK](https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework)
+- [Intent Media](https://intentmedia.com/the-intent-media-engineering-ladders/)
+- [Kickstarter](https://www.kickstarter.com/backing-and-hacking/the-kickstarter-engineering-and-data-team-ladder)
+- [Medium](https://medium.com/s/engineering-growth-framework)
+- [Meetup](https://medium.com/making-meetup/engineering-ladders-at-meetup-caacbea4916e)
+- [Patreon](https://levels.patreon.com/)
+- [Railtown](http://changelog.ca/log/2013/08/09/software_engineer_title_ladder)
+- [Rent the Runway](http://dresscode.renttherunway.com/blog/ladder)
+- [Spotify](https://labs.spotify.com/2016/02/15/spotify-technology-career-steps/)
+- [Songkick](https://blog.songkick.com/building-a-growth-framework-2464435e9e46)
+- [Soundcloud](https://developers.soundcloud.com/blog/engineering-levels)
+- [Square](https://developer.squareup.com/blog/squares-growth-framework-for-engineers-and-engineering-managers/)
+- [SkillsMap.io](https://www.skillsmap.io/)
+- [Travis CI](https://speakerdeck.com/rkh/how-we-replaced-salary-negotiations-with-a-sinatra-app)
+- [Tes Global](https://www.youtube.com/watch?v=v6wAlxrhC80)
+- [Urban Airship](https://github.com/urbanairship/techladder)
+- [Uber](https://www.quora.com/What-is-the-career-ladder-for-engineers-at-Uber)
+- [Under Armour](https://h3h.github.io/leveling-matrix/)
+
+## References
+- [Engineering Ladders Linklist](https://squeakyvessel.com/2016/07/11/engineering-ladders-links-elsewhere/)
+- [levels.fyi](https://www.levels.fyi/)
+- [progression.fyi](http://www.progression.fyi/)

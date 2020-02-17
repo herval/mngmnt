@@ -1,7 +1,5 @@
 # Five dysfunctions of a team
 
-# Five dysfunctions prevent high performance
-
 ![](../imgs/five_dysfunctions.png)
 
 ## Absence of trust

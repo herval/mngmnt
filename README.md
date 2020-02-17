@@ -1,3 +1,4 @@
+
 # Engineering Management Scrapbook
 
 ## A collection of resources, findings & references for becoming a better manager
@@ -36,3 +37,4 @@
 - Never Split the Difference
 - Radical Candor
 - https://www.topgrading.com/blog/torc-technique-powerful-free-hiring-method/
+- Wardley Maps
