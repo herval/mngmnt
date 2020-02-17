@@ -1,7 +1,20 @@
 # 1:1 Basics
 
-# First 1:1 checklist
-This helps getting to know better a report
+# Radical Candor's basics
+- Have _regular_ 1:1s
+- Be on time
+- Change the setting (walks, meeting rooms, etc)
+- Make the agenda 80% theirs. _Listen a lot_.
+- _Have a shared doc_.
+
+## Areas to focus on 1:1s
+- Results - blockers, progress towards goals. _Avoid turning it into a status check meeting_.
+- Career Development - what should I focus on next? Focus on the long term.
+- Feedback - collect feedback about others and from the report's day-to-day
+
+
+# First 1:1 checklist - Lara Hogan's method
+This list helps setting context and figure out how to better interact with a new report. _Only ask if you intend to follow through_.
 
 ### Grumpiness
 
@@ -39,5 +52,7 @@ This helps getting to know better a report
 
 
 # References
-
+- [Effective 1:1s](https://www.radicalcandor.com/effective-one-on-ones/)
+- [The Problem with Career Conversations Today](https://www.radicalcandor.com/problem-career-conversations/)
+- [1 on 1 meeting questions megalist](https://github.com/VGraupera/1on1-questions)
 - [Questions for our first 1:1](https://larahogan.me/blog/first-one-on-one-questions/)

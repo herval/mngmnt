@@ -36,5 +36,4 @@
 - Manager's Path
 - Never Split the Difference
 - Radical Candor
-- https://www.topgrading.com/blog/torc-technique-powerful-free-hiring-method/
 - Wardley Maps

@@ -1,5 +1,7 @@
 # Effective Meetings
 
+### [Effective notetaking](notetaking.md)
+
 
 ## Listening 101
 - Ask open ended questions (how/what/why)
