@@ -9,3 +9,5 @@
 ### [Five dysfunctions of a team](five_dysfunctions.md)
 
 ### [Team health checklist](team_health_checklist.md)
+
+### [Affinities and alignment](affinities.md)
