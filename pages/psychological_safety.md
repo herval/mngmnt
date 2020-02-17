@@ -30,6 +30,11 @@ How? Promote design reviews, whiteboarding sessions, roundtables, etc
 ![](../imgs/antecedents_outcoes.png)
 
 
+## Building trust
+
+![](../imgs/trust.png)
+
+
 ## What's Toxic behavior?
 
 ![](../imgs/toxic_stuff.png)
