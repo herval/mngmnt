@@ -8,6 +8,13 @@
 ![](../imgs/execution_cycle.png)
 
 
+## Big Decison Meetings
+- Staff meetings are _not_ a space for making decisions
+- Use staff meetings to identify the most important decisions that need to get made that week, and who should make those decisions
+- Managers should exclude themselves from deciding as much as possible. **Push down the decision making**
+- Don’t let decisions get pushed up
+
+
 ## Assertive Inquiry
 - People’s default mode of communication tends to be _advocacy_ - argumentation in favor or their own conclusions and theories, statements about the truth of their own point of view.
 - Advocate your view as a possibility, not as the single right answer.
@@ -22,5 +29,5 @@
 ## References
 
 - [Playing to Win: how strategy really works](https://www.amazon.com/gp/product/142218739X)
-
+- [A Primer on Decision Making](https://www.amazon.com/Primer-Decision-Making-Decisions-Happen/dp/1439157332)
 - [Notes from Radical Candor - Kim Scott](https://hackernoon.com/notes-from-radical-candor-kim-scott-b663c019d025)

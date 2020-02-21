@@ -12,6 +12,12 @@
 - Career Development - what should I focus on next? Focus on the long term.
 - Feedback - collect feedback about others and from the report's day-to-day
 
+# Do not use 1:1s as a status check
+Let reports set the agenda. Some ice-breakers:
+- What do they want to be doing? 
+- What are they not doing? 
+- What do they feel like they ought to be doing?
+
 
 # First 1:1 checklist - Lara Hogan's method
 This list helps setting context and figure out how to better interact with a new report. _Only ask if you intend to follow through_.
