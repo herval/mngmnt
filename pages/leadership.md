@@ -3,7 +3,8 @@
 ### 🗣[Communication is 99%](comm_basics.md)
 ### 🐶[The Doge theory](doge_theory.md)
 ### 👩‍👧‍👦[Leading 101](leading101.md)
-### Accidental Diminishers(accidental_diminishers.md)
+### [Accidental Diminishers](accidental_diminishers.md)
+### [The 48 Laws of Power](48_laws.md)
 
 ## Kinds of Leaders
 
