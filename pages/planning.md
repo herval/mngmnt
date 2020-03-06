@@ -8,6 +8,8 @@
 
 [Getting buy-in](buy_in.md)
 
+[Never Split the Difference Framework](never_split_the_difference.md)
+
 [Relationship building](relationship_building.md)
 
 [Mediation 101](mediation101.md)

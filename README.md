@@ -27,6 +27,8 @@
 
 ### 🎯[Planning & alignment](pages/planning.md)
 
+### 🦄[Product & strategy](pages/product.md)
+
 ### ❓[References](pages/references.md)
 
 
