@@ -5,6 +5,7 @@
 ### 👩‍👧‍👦[Leading 101](leading101.md)
 ### [Accidental Diminishers](accidental_diminishers.md)
 ### [The 48 Laws of Power](48_laws.md)
+### [Expeditionary Behavior](expeditionary_behavior.md)
 
 ## Kinds of Leaders
 
